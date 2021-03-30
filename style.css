@@ -142,11 +142,11 @@ button{
     display:none;
 }
 
-.editMode .task-input {
+.edit-mode .task-input {
     display:inline-block;
     width:224px;
 }
 
-.editMode .label {
+.edit-mode .label {
     display:none;
 }
