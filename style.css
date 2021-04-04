@@ -27,7 +27,7 @@ button{
 .header-img {
     width: 100%;
 }
-.header .more_inf {
+.more_inf {
     font-family: fantasy, cursive;
 }
 
@@ -50,6 +50,7 @@ button{
 }
 .task-row-wrapper {
     margin-top: 20px;
+    margin-bottom: 16px;
     display: flex;
 }
 
@@ -100,6 +101,7 @@ button{
 .new-task {
     width: 318px;
 }
+
 
 /* Task list */
 .task-list-element {
